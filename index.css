@@ -449,7 +449,7 @@ main {
       width: 90%;
       height: 90%;
       border-radius: 16px;
-      background-position: center;
+      background-position: top;
       background-size: cover;
       aspect-ratio: 1;
       position: relative;
